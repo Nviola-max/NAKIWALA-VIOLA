@@ -1,0 +1,42 @@
+body{
+	background-color:rgba(234,123,255,0.3); font-family:Times New Roman; font-size:155%; border:5px solid rgb(255,0,0);
+}
+img{
+	width:800px;height:500px;border-radius:10px;border:5px solid #4caf50;
+}
+header{
+	text-align:centre;
+	color:teal;
+}
+h2{
+	color:darkcyan;
+	text-shadow:4px 3px red;
+}
+.hero{
+	background-color:lightgreen;
+   color:darkblue}
+h1{
+	color:rgb(0,123,123);
+}
+p{
+	font-family:Times New Roman,serif;
+	text-transform:capitalize;
+	font-weight:bold;
+	color:darkred;
+}
+ol>li{
+	color:rgb(0,123,123);
+	text-align:justify;
+}
+footer{
+	color:rgb(234,212,0);background-color:lightblue; font-family:Lobster; font-size:155%; border:5px solid rgb(255,0,0);
+}
+img{
+	width:600;height:300;
+}
+h6{
+	color:rgb(225,0,155);
+}
+h4{
+	color:rgb(235,0,155);
+}
